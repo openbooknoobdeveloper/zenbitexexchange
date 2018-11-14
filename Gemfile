@@ -14,7 +14,7 @@ gem 'jbuilder'
 gem 'bcrypt-ruby', '~> 3.1.2'
 
 gem 'doorkeeper', '~> 1.4.2'
-gem 'omniauth', '~> 1.2.1'
+gem 'omniauth', '>= 1.3.2'
 gem 'omniauth-identity', '~> 1.1.1'
 gem 'omniauth-weibo-oauth2', '~> 0.4.0'
 
@@ -47,7 +47,7 @@ gem 'slim-rails', '>= 3.1.3'
 gem 'sass-rails', '>= 5.0.6'
 gem 'coffee-rails', '>= 4.2.2'
 gem 'uglifier', '>= 2.7.2'
-gem "jquery-rails", ">= 3.1.4"
+gem "jquery-rails", ">= 3.1.3"
 gem "angularjs-rails"
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'bootstrap-wysihtml5-rails', '>= 0.3.1.24'
