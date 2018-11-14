@@ -38,7 +38,7 @@ GEM
     activemodel (4.0.12)
       activesupport (= 4.0.12)
       builder (~> 3.1.0)
-    activerecord (>=4.1.14.1)
+    activerecord (>=3.0.18)
       activemodel (= 4.0.12)
       activerecord-deprecated_finders (~> 1.0.2)
       activesupport (= 4.0.12)
