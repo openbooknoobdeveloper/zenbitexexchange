@@ -470,7 +470,7 @@ DEPENDENCIES
   font-awesome-sass (~> 4.5.0.0)
   globalize (~> 4.0.0)
   gon (~> 5.2.0)
-  grape (~> 0.7.0)
+  grape (~> 1.1.0)
   grape-entity (~> 0.4.2)
   grape-swagger (~> 0.7.2)
   hashie
