@@ -327,7 +327,7 @@ GEM
       redis-activesupport (~> 4)
       redis (>= 2.2)
     request_store (1.1.0)
-    rest-client (>=1.8.0)
+    rest-client (>=1.7.3)
       mime-types (~> 1.16)
       rdoc (>= 2.4.2)
     rotp (1.6.1)
